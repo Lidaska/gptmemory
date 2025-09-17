@@ -1,0 +1,156 @@
+Question Bank-Sem-III Calculus theory
+ 
+1 Explain the vertical line test and apply it to determine whether the following 
+graphs represent functions: 
+i)𝑦=𝑥2 
+ii)𝑥2+𝑦2=25(circle of radius 5)  
+iii) 𝑦=|𝑥| represent function or not. 
+2 If 𝑓(𝑥)=𝑥+5 ,𝑔(𝑥)=𝑥2−3. Compute 𝑓(𝑔(0)),𝑔(𝑓(0)), 𝑓(𝑓(−5)),𝑔(𝑔(2)). 
+3 Evaluate the limit of the rational function as 𝑥→∞ 
+ƒ(𝑥) = 2𝑥5−6𝑥4+1
+ 3𝑥5+𝑥−7 
+4 Define continuity of a function. Prove that the function 
+ 𝑓(𝑥)={ 𝑥2   , 𝑥≠2
+ 4      , 𝑥=2     is continuous at 𝑥=2 
+5 Find the critical points of ƒ(𝑥) = 𝑥3− 12𝑥−5 and identify the open intervals on 
+which ƒ is increasing and on which ƒ is decreasing. 
+6 State second derivative test and Apply it to determine local maxima or minima of 
+the function:: 
+�
+�(𝑥)=𝑥3−3𝑥+3 
+7 Suppose f and g are integrable function and that 
+∫𝑓(𝑥).𝑑𝑥=
+ 9
+ 1
+ −1,∫𝑓(𝑥).𝑑𝑥
+ 9
+ 7
+ =5,∫𝑔(𝑥).𝑑𝑥=
+ 9
+ 7
+ 4 
+Then find ∫ 4𝑓(𝑥).𝑑𝑥 7
+ 1
+ ,∫(𝑔(𝑥)−3𝑓(𝑥))𝑑𝑥 7
+ 9
+ 
+8 State the Fundamental Theorem of Calculus and use it to evaluate:∫(2𝑥4−6𝑥)𝑑𝑥 2
+ 1
+ 
+9 Find 𝑢×𝑣 𝑎𝑛𝑑 𝑣×𝑢 for vectors .Also find its magnitude. 
+�
+�.𝑢 = 2𝑖 + 3𝑗,𝑣 = −𝑖 + 𝑗 
+�
+�.𝑢 = 2𝑖 − 2𝑗 + 4𝑘,𝑣 = −𝑖 + 𝑗 − 2𝑘 
+10 Define dot product of vectors. Show that the vectors  
+�
+� = 3𝑖 − 2𝑗 + 𝑘 and 𝑣 = 2𝑗 + 4𝑘 are orthogonal. 
+11 If 𝑓(𝑥,𝑦,𝑧)=𝑥2+𝑦2𝑧 compute the gradient vector 𝛻𝑓 and  its magnitude at point 
+(1,2,1) 
+13 Define the directional derivative. If 𝑓(𝑥,𝑦)=𝑥3−𝑦2 compute the directional 
+derivative at point (1,1)in the direction of 
+ 𝑢=(2,3). 
+14 Explain the concept of even and odd functions. For each of the following, determine 
+whether the function is even, odd, or neither: 
+i)𝑓(𝑥)=𝑥2+𝑥       ii) 𝑓(𝑥)=𝑥3+𝑥   iii) 𝑓(𝑥)=𝑥2+1 
+15 Determine the limit of the function. calculate:lim𝑥→1
+ 𝑥2+𝑥−2
+ 𝑥2−𝑥
+ 
+16 Define continuity of a function. Show that the function 
+ 𝑓(𝑥)={
+ 𝑥2−𝑥−6 
+�
+�−3
+ , 𝑥≠3
+ 5       , 𝑥=3
+     is continuous at 𝑥=3 
+17 Identify the absolute maximum and minimum values of the given functions on the 
+specified intervals: 
+i) ƒ(𝑥)= 𝑥2−1,   −1 ≤ 𝑥 ≤2 
+ii)ƒ(𝑥)= 4−𝑥3, −2≤𝑥 ≤1 
+18 Define linearization and differentials. Then, construct the linear approximation of 
+�
+�(𝑥)=√1+𝑥 at 𝑥=0. 
+19 State the Fundamental Theorem of Calculus. Then, use it to evaluate: ∫(𝑥2+1)𝑑𝑥 1
+ 0
+ 
+20 Find the value of: ∫ 𝑥2 1
+ 0
+ 𝑐𝑜𝑠𝑥𝑑𝑥 
+21 Explain what it means for vectors to be orthogonal. Verify that the vectors 𝑢 = 3𝑖 −
+ 2𝑗 + 𝑘 and 𝑣 = 2𝑗 + 4𝑘 are orthogonal. 
+22 Define angle between two vectors. Calculate the angle between two vectors: 
+�
+� = 2𝑖 + 𝑗,𝑣 = 𝑖 + 2𝑗 − 𝑘 
+�
+� = 2𝑖 − 2𝑗 + 𝑘,𝑣 = 3𝑖 + 4𝑘 
+23 If 𝑧=𝑥2𝑦+𝑦2, Compute the partial derivatives  𝜕𝑧
+ 𝜕𝑥
+ , 𝜕𝑧
+ 𝜕𝑥𝜕𝑦
+ 𝜕𝑧
+ 𝜕𝑦
+ , 𝜕𝑧
+ 𝜕𝑦𝜕𝑥
+ 
+24 Define the gradient of a function. 𝐹𝑜𝑟 𝑓(𝑥,𝑦,𝑧)=𝑥2𝑦+𝑦𝑧2 find ∇𝑓 at the point 
+(1,2,1) 
+25 Construct the equations for graphs that are stretched or compressed. For each 
+case, rewrite the transformed function: 
+�
+� = 𝑥2 − 1, stretched vertically by a factor of 3 
+�
+� = 1 − 𝑥3, compressed horizontally by a factor of 2 
+�
+� = √4−𝑥2, compressed vertically by a factor of 4 
+�
+� = 1 + 1
+ 𝑥2
+ , stretched horizontally by a factor of 1 
+26 Determine the limit of rational function as 𝑥→∞:ƒ(𝑥) = 2𝑥3+7
+ 𝑥3−𝑥2+𝑥+7
+ 
+27 Define vertical and horizontal asymptotes. Then, find the asymptotes of the 
+function: 𝑓(𝑥)=− 8
+ 𝑥2−4
+ 
+28 i) Construct the linearization of 𝑓(𝑥)=𝑥3−2𝑥+3 at 𝑥=2   
+ii) Use differentials to approximate 𝑑𝑦 𝑖𝑓 𝑦=𝑥5+37𝑥  
+ 𝑤ℎ𝑒𝑛 𝑥=1 𝑎𝑛𝑑 𝑑𝑥=0.2 
+29 Define critical point and determine all critical points for each function. 
+i) 𝑦 = 𝑥2− 6𝑥 + 7   𝑖𝑖) ƒ(𝑥) = 6𝑥2−𝑥3 
+30 Suppose f and g are integrable function and that 
+∫𝑓(𝑥).𝑑𝑥=
+ 9
+ 1
+ −1,∫𝑓(𝑥).𝑑𝑥
+ 9
+ 7
+ =5,∫𝑔(𝑥).𝑑𝑥=
+ 9
+ 7
+ 4 
+Then Evaluate ∫ 𝑓(𝑥).𝑑𝑥 7
+ 1
+ ,∫(2𝑓(𝑥)−3𝑔(𝑥))𝑑𝑥 9
+ 7
+ 
+31 Compute the definite integral: ∫ 𝑥𝑙𝑜𝑔𝑥.𝑑𝑥 2
+ 1
+ 
+32 
+33 
+Calculate 𝑣. 𝑢, |𝑣| ,|𝑢|  for the following vectors. 
+�
+� = 2𝑖 − 4𝑗 + 25𝑘,𝑢 = −2𝑖 + 4𝑗 − 25𝑘 
+�
+� = 2𝑖 + 10𝑗 − 11𝑘,𝑢 = 2𝑖 + 2𝑗 + 𝑘 
+34 
+Define cross product of vector Also compute 𝑢 × 𝑣 𝑎𝑛𝑑 𝑣 × 𝑢 for vectors  
+�
+� = 2𝑖 − 2𝑗 − 𝑘,𝑣 = 𝑖 − 𝑘 
+If 𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦𝑧, find the gradient vector 𝛻𝑓 and its magnitude at point (1,1,1) 
+35 
+Define the directional derivative and compute the directional derivative of 𝑓(𝑥,𝑦) =
+ 𝑥2 +𝑦2 at point (1,2)in the direction of vector 𝑎 = (3,4). 
