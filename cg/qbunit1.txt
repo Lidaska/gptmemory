@@ -1,1 +1,37 @@
-here would be our computer graphics question bank for unit 1. let's see if you can read this :>>
+Hey if you reading this, it's probably because i want you to help with my exam. This is computer graphics question bank, and please keep the answers a bit short unless i ask you to explain in brief. If i memorize information, i can expand it on myself, but if you give expanded it's hard to memorize. Btw computer graphics also has a practical exam, that's probably gonna be a headache but let's work on theory rn. :D My name's Adil, and rn sem III 2nd year bsc in AI.
+1.	Explain the working principle of a Cathode Ray Tube (CRT) with the help of a neat diagram.
+2.	Describe the Digital Differential Analyzer (DDA) line drawing algorithm with proper mathematical steps.
+3.	List and briefly describe the different types of modern display technologies.
+4.	Define aliasing in computer graphics. How can antialiasing techniques be used to reduce this effect? Mention any two methods of antialiasing
+5.	Compare the effectiveness of the Cohen-Sutherland algorithm with another clipping algorithm. Propose a situation where one is preferred over the other
+6.	Differentiate between vector and raster graphics based on resolution, storage, and applications.
+7.	Define 2D transformation. Explain the difference between translation, scaling, and rotation.
+8.	What are the stages in 3D viewing? Explain each briefly.
+9.	Write the matrix representation of 2D translation using homogeneous coordinates. Give an example.
+10.	How does the viewing pyramid illustrate the camera's perspective, and in what way is it connected to the camera model?
+11.	Explain solid body transformations in 3D graphics.
+12.	In what way does 3D shearing transform objects, and what is its matrix representation?
+13.	What is a Color CRT Raster Scan Display? Explain its basic working principle and mention two key components.
+14.	List and explain any four applications of computer graphics. Also, name two commonly used computer graphics software.
+15.	Evaluate the advantages and disadvantages of Bresenham’s algorithm versus the DDA algorithm in practical graphics rendering.
+16.	How does a Calligraphic Refresh Graphics Display operate, and what principle governs its functioning?
+17.	In which way does the Midpoint Ellipse Algorithm function, what are its main steps, and what is one advantage of using it?
+18.	Create a new application scenario where vector graphics are preferable over raster graphics and justify your choice
+19.	Explain 2D rotation about an arbitrary point and provide the mathematical steps
+20.	How does the Canonical View Volume (CVV) function in 3D graphics, and why is it important?
+21.	What is shearing in 2D? Give the matrix representation and an example.
+22.	Why do homogeneous coordinates take precedence over standard coordinates in 3D transformations, and which advantages do they bring?
+23.	Describe 3D reflection through an arbitrary plane with an example
+24.	In computer graphics, how do Translation and Scaling differ, and what are their respective formulas and examples?
+25.	Write any four applications of computer graphics and briefly describe them. Also, mention any two-software used for creating computer graphics.
+26.	Evaluate the suitability of Random-Scan versus Raster-Scan display technologies for modern gaming applications.
+27.	Describe the Midpoint Circle Algorithm with proper mathematical steps. State one advantage of this algorithm.
+28.	What are raster graphics? Explain their main characteristics, advantages, and one application.
+29.	Which role does a Video Controller play in a computer graphics system, and what are its primary functions?
+30.	How do Virtual Reality (VR) and Augmented Reality (AR) differ from each other, and can you provide one application for each?
+31.	Describe reflection in 2D. How do you represent it using a matrix?
+32.	Give an example of 3D viewing applied in computer graphics.
+33.	Explain the mathematics of planar geometric projections in 3D.
+34.	Discuss different coordinate systems in 3D viewing and their significance.
+35.	Differentiate between 2D and 3D
+36.	How is perspective projection represented using matrices in 3D graphics?
